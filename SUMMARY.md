@@ -8,8 +8,10 @@
 
 ## Data
 * [Connecting React Native to PostgreSQL](connecting-react-native-to-postgresql.md)
+* [Data Resources](data-resources.md)
 
 ## Meeting Notes
+* [Notes from 12\/11\/16](notes-from-121116.md)
 
 ## Overview
 * [Political Engagement App](political-engagement-app.md)
