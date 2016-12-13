@@ -7,5 +7,10 @@
 * [React Resources](react-resources.md)
 
 ## Data
-* Connecting React Native to PostgreSQL
+* [Connecting React Native to PostgreSQL](connecting-react-native-to-postgresql.md)
+
+## Meeting Notes
+
+## Overview
+* [Political Engagement App](political-engagement-app.md)
 
