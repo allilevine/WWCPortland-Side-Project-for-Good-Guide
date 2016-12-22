@@ -1,4 +1,4 @@
-SUMMARY
+INITIAL SUMMARY
 
 The purpose of the app is to increase political engagement throughout the year, not just at election time. Users will be alerted with push notifications when a bill of interest is coming up for vote, and provided with an option to call the elected representative's office to express an opinion on the bill. Additionally, the app could track opinions on bills and the representative's votes for comparison at election time.
 
