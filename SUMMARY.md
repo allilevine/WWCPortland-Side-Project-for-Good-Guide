@@ -2,6 +2,7 @@
 
 ## Overview
 * [Political Engagement App](README.md)
+* [App Summary](app-summary.md)
 
 ## Front-End
 * [Getting up and running with React Native](getting-up-and-running-with-react-native.md)
