@@ -3,6 +3,7 @@
 ## Overview
 * [Political Engagement App](README.md)
 * [App Summary](app-summary.md)
+* [App Flows](app_flows_by_rachelp.pdf)
 
 ## Front-End
 * [Getting up and running with React Native](getting-up-and-running-with-react-native.md)
